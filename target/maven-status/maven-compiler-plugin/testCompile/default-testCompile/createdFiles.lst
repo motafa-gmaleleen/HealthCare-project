@@ -1,0 +1,6 @@
+tests\MyAccountTest.class
+tests\SearchProductUsingAutoSuggestTest.class
+utilities\Helper.class
+tests\SearchProductTest.class
+tests\TestBase.class
+tests\UserRegistrationTest.class
